@@ -23,6 +23,6 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 ### Project Description
 
 #### Machine Learning
-   1. [**Unsupervised Learning (Bank Customer Segment):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/ML-Unsupervised-Learning/Bank-Clustering.ipynb) Analyzing a dataset containing data on various customer's amounts details of tenure, credit_limit,     minimum_payment, purchase for discovering internal structure, patterns and knowledge.
+   1. [**Unsupervised Learning (Credit Card):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/ML-Unsupervised-Learning/Bank-Clustering.ipynb) Analyzing a dataset containing data on various customer's amounts details of tenure, credit_limit,     minimum_payment, purchase for discovering internal structure, patterns and knowledge.
    
 
