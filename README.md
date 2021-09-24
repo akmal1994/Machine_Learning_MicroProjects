@@ -23,9 +23,6 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 ### Project Description
 
 #### Machine Learning
-   1. **Bank Credit:**
-   2. **Portugal Bank Fixed Deposit:**
-   3. **Crop Status:**
-   4. **Sales Estimate of Store**
+   1. **Unsupervised Learning (Bank Customer Segment):** Analyzing a dataset containing data on various customer's amounts details of tenure, credit_limit,     minimum_payment, purchase for discovering internal structure, patterns and knowledge.
    
 
