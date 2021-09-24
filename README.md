@@ -24,5 +24,4 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 
 #### Machine Learning
    1. [**Unsupervised Learning (Credit Card):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/ML-Unsupervised-Learning/Bank-Clustering.ipynb) Analyzing a dataset containing data on various customer's credit card details of tenure, credit_limit,     minimum_payment, purchase for discovering internal structure, patterns and knowledge.
-   
-
+   2. [**Supervised Learning (Bank Marketing):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/ML-Supervised-Learning/Bank_Marketing_Classification.ipynb) Applying different supervised model and measure performance of every model on bank marketing dataset to predict more accuratly whether the customer will stay with bank or not.
