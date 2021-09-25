@@ -36,7 +36,7 @@ Libraries and Frameworks: *Tensorflow2, Keras, Scikit-Learn, Pandas, Numpy, Matp
 
 ---
 
-I have hands on tableau aslo will share the link of my tableau profile here, If you have any suggestion related to work feel free to write your suggestion @ akmalkamri9@gmail.com 
+I have hands on tableau aslo will share the link of my tableau profile here, If you have any suggestion related to work feel free to write your suggestion at akmalkamri9@gmail.com 
 
 ---
 
