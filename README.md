@@ -8,18 +8,22 @@
 
 ### Introduction
 In this repository I am showing all my project whatever I solved during my post graduation, self-learning (from Kaggle). All the dataset I am using is for determination and easily available in kaggle and other resources. I assure that datasets used here is non-confidencial all are for trainig purpose and practicing to make proper approach towards data science.
+
 ---
 
 ### Motivation
 I am from Mechanical Background as I have completed my bachelor of technology (B.Tech), post that I worked in core mechanical based industries. The work is based on a set of rules and there was nothing innovative to contribute. I lost my interest after working 2 years and decided to make a career change but I was not sure where should I go which path to follow.Eventually, I got an opportunity to work in a Trading company that recently began its research operations. I used to work with data and it was quite interesting to analyze data and cull out decision-making insights. I discussed the future prospects of the current work with my colleague and he suggested to me data science.  From there on I took over a year to understand the basics of data science. I got enrolled in Analytics and Artificial Intelligence programme from Imarticus Institute. I found it relatively easier to grasp the content and the materials owing to my experience in programming during my college days.
+
+---
 
 ### Dataset
 
   ***Machine Learning***
   - Bank Credit Card **(Unsupervised)**
   - Portugal Bank Marketing **(Supervised)**
-  - Crop Status **(Supervised & Imbalanced)**
-  - Sales Estimate **(Supervised & Regression)**
+  - Pizza Quality **(Deep Learning)**
+
+---
 
 ### Project Description
 
@@ -30,10 +34,16 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 
 Libraries and Frameworks: *Tensorflow2, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn*
 
+---
+
 I have hands on tableau aslo will share the link of my tableau profile here, If you have any suggestion related to work feel free to write your suggestion @ akmalkamri9@gmail.com 
+
+---
 
 ## Nees your Support:
 Looking for job in Data Science if you have any openings or reference kindly let me know through email, I keep checking email daily two times as I am eager to get a job to handle current circumstances.
+
+---
 
 **I will keep posting my work as for refrence and to get some insightful feedback from domain eperts or learners.
 
