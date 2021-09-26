@@ -35,7 +35,6 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
    3. [**Deep Learning (Pizza Quality Classification):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/Deep%20Learning/Pizza_Classification_CNN%20(DL).ipynb) Build Convolutional Neural Network for pizza company and pass the dataset to our network for learning about good_pizza and burnt_pizza, so that it learn and predict on new image of pizza whether good or burnt.
    4. [**Deep Learning (Brain Tumor Classification):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/Deep%20Learning/Brain-Tumor-Classification.ipynb) Health care problem is major concern of this century. This work is just an approach on how AI can be use full to detecting the type of Desied not only for brain but many more. This project is based to brain MRI scan to predict the type of tumor so that the patient get an early treatment and with the help of these technology Life expectancy of patient can be improved.
 
-Libraries and Frameworks: *Tensorflow2, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn*
 
 ---
 
@@ -45,7 +44,7 @@ Libraries and Frameworks: *Tensorflow2, Keras, Scikit-Learn, Pandas, Numpy, Matp
   - numpy
   - matplotlib
   - seaborn
-  - tensorflow
+  - tensorflow 2
   - keras
   - scikit-learn
 
