@@ -5,6 +5,7 @@
   - [Motivation](#motivation)
   - [Dataset](#dataset)
   - [Project Description](#project-description)
+  - [Tool Used](#tool-used)
   - [Need Your Support](#need-your-support)
 
 ### Introduction
@@ -38,6 +39,18 @@ Libraries and Frameworks: *Tensorflow2, Keras, Scikit-Learn, Pandas, Numpy, Matp
 
 ---
 
+#### Tool Used:
+
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - tensorflow
+  - keras
+  - scikit-learn
+
+---
+
 I have hands on tableau aslo will share the link of my tableau profile here, If you have any suggestion related to work feel free to write your suggestion at akmalkamri9@gmail.com 
 
 ---
@@ -47,6 +60,6 @@ Looking for job in Data Science if you have any openings or reference kindly let
 
 ---
 
-**I will keep posting my work as for refrence and to get some insightful feedback from domain eperts or learners.
+**I will keep posting my work as for refrence and to get some insightful feedback from domain eperts or learners.**
 
 ### Thanks for your time to review.
