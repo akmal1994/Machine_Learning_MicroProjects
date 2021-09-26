@@ -25,7 +25,6 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 
 ### Dataset
 
-  ***Machine Learning***
   - Bank Credit Card **(Unsupervised)**
   - Portugal Bank Marketing **(Supervised)**
   - Brain MRI Scan Images **(Deep Learning)**
