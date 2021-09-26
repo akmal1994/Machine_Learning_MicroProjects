@@ -36,6 +36,7 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 #### Machine Learning
    1. [**Unsupervised Learning (Credit Card):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/ML-Unsupervised-Learning/Bank-Clustering.ipynb) Analyzing a dataset containing data on various customer's credit card details of tenure, credit_limit,     minimum_payment, purchase for discovering internal structure, patterns and knowledge.
    2. [**Supervised Learning (Bank Marketing):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/ML-Supervised-Learning/Bank_Marketing_Classification.ipynb) Applying different supervised model and measure performance of every model on bank marketing dataset to predict more accuratly whether the customer will stay with bank or not.
+   3. **Supervised Learning (Crop Status):** Analyzing the data of agriculture / crop and build a model to predict the status of it on various parameters as mentioned on file.
 
 #### Deep Learning
    1. [**Deep Learning (Pizza Quality Classification):**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/Deep%20Learning/Pizza_Classification_CNN%20(DL).ipynb) Build Convolutional Neural Network for pizza company and pass the dataset to our network for learning about good_pizza and burnt_pizza, so that it learn and predict on new image of pizza whether good or burnt.
