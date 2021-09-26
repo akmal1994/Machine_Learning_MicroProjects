@@ -27,7 +27,6 @@ I am from Mechanical Background as I have completed my bachelor of technology (B
 
   - [Bank Credit Card **(Unsupervised)**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/Datasets/credit_card.csv)
   - [Portugal Bank Marketing **(Supervised)**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/Datasets/bank.csv)
-  - [Crop_Status **(Supervised)**](https://github.com/akmal1994/Machine_Learning_MicroProjects/blob/main/Datasets/train_cropstatus.xlsx)
   - [Brain MRI Scan Images **(Deep Learning)**](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)
 
 ---
